@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/splashScreen">
         <activity
-            android:name="com.nativegame.graphbubbleshooter.MainActivity"
+            android:name=".MainActivity"
             android:exported="true"
             android:screenOrientation="portrait">
             <intent-filter>

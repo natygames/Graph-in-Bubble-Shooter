@@ -6,6 +6,10 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/**
+ * Created by Oscar Liang on 2022/07/08
+ */
+
 public class BubbleManager {
 
     private final GameEngine mGameEngine;

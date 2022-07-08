@@ -10,6 +10,10 @@ import com.nativegame.graphbubbleshooter.engine.Sprite;
 
 import java.util.Random;
 
+/**
+ * Created by Oscar Liang on 2022/07/08
+ */
+
 public class Player extends Sprite {
 
     public BubbleColor mBubbleColor;

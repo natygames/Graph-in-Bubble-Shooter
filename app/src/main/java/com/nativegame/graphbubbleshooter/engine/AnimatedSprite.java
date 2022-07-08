@@ -2,10 +2,6 @@ package com.nativegame.graphbubbleshooter.engine;
 
 import android.graphics.Bitmap;
 
-/**
- * Created by Oscar Liang on 2022/06/09
- */
-
 public abstract class AnimatedSprite extends Sprite {
 
     private long mTimePreFrame;

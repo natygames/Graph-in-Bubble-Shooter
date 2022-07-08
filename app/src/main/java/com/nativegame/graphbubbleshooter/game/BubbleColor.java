@@ -2,6 +2,10 @@ package com.nativegame.graphbubbleshooter.game;
 
 import com.nativegame.graphbubbleshooter.R;
 
+/**
+ * Created by Oscar Liang on 2022/07/08
+ */
+
 public enum BubbleColor {
     RED,
     YELLOW,

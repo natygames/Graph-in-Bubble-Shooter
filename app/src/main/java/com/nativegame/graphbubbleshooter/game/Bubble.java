@@ -5,6 +5,10 @@ import com.nativegame.graphbubbleshooter.engine.Sprite;
 
 import java.util.ArrayList;
 
+/**
+ * Created by Oscar Liang on 2022/07/08
+ */
+
 public class Bubble extends Sprite {
 
     public final int mRow, mCol;
