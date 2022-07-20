@@ -90,4 +90,6 @@ Then, we simply remove all the bubble not being discoved. (Actually, set it to B
 
 ## Reference
 
-Introduction to Algorithms By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
+Graph Algorithm base on "Introduction to Algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
+
+Game engine based on "Mastering Android Game Development" by Raul Pautals
